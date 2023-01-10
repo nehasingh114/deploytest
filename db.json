@@ -1,12 +1,5 @@
 {
-  "signup": [
+  "dogs": [
     
-  ],
-  "tasks": [
-    {
-      "tasks": "task1",
-      "task": "l",
-      "id": 1
-    }
   ]
 }
