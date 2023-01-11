@@ -7,5 +7,7 @@
   "wishlist":[],
   "cart":[],
   "carts":[],
-  "signup":[]
+  "signup":[],
+  "users":[],
+  "login":[]
 }
