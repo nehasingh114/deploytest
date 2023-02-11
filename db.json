@@ -1,4 +1,31 @@
 {
+  "wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    }
+  ],
+  "Signup": [
+    {
+      "email": "asd",
+      "name": "asd",
+      "password": "asd",
+      "confPass": "asd",
+      "id": 1
+    }
+  ],
+  "Login": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
   "dogs": [
     {
       "id": 1,
@@ -15,28 +42,18 @@
       "gender": "Female"
     }
   ],
-  "products":[],
-  "data":[],
-  "wishlisted_cars": [
+  "hotel": [
     {
       "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "category": "Family",
+      "image_url": "https://thumbs.dreamstime.com/b/hotel-bed-room-21064950.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "bed_of_persons": "2",
+      "capacity": "1",
+      "cost": "2500",
+      "booked": false
     }
   ],
-  "users":[
- {
-      "image": "https://th.bing.com/th/id/R.6b0022312d41080436c52da571d5c697?rik=ejx13G9ZroRrcg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fuser-png-icon-young-user-icon-2400.png&ehk=NNF6zZUBr0n5i%2fx0Bh3AMRDRDrzslPXB0ANabkkPyv0%3d&risl=&pid=ImgRaw&r=0",
-      "username": "Neha",
-      "email": "neha@gmail.com",
-      "password": "neha123",
-      "id": 1
-    }
-
-  ]
-
+  "users":[]
 }
