@@ -1,21 +1,26 @@
 {
-  "name": "deploytest",
+  "name": "new-folder-(3)",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type":"module",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guruprasad3n/BackendMock.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "json-serve": "^0.1.0",
-    "json-server": "^0.17.1"
+  "bugs": {
+    "url": "https://github.com/Guruprasad3n/BackendMock/issues"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.20"
+  "homepage": "https://github.com/Guruprasad3n/BackendMock#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
   }
 }
