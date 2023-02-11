@@ -55,5 +55,13 @@
       "booked": false
     }
   ],
-  "users":[]
+  "users":[
+    {
+      "id": 1,
+      "avatar": "https://thumbs.dreamstime.com/b/hotel-bed-room-21064950.jpg",
+      "username": "neha",
+      "email": "neha@gmail.com",
+      "password": "pass"
+    }
+  ]
 }
